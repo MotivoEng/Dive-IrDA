@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB_to_IRDA.PcbDoc   3/19/2024  10:39:15 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : NCD-60000-E101-Rev 3-RoundHoles.TXT
+ASCII SlotHoles File : NCD-60000-E101-Rev 3-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.15mm (6mil)                                             Round             3         PTH        7.50mm (0.30inch)
+T2      0.2mm (8mil)                                              Round             47        PTH        234.35mm (9.23inch)
+T3      0.61mm (24mil)                                            Slot              2         PTH        19.97mm (0.79inch)
+T4      0.711mm (28mil)                                           Slot              4         PTH        36.38mm (1.43inch)
+T5      2.921mm (115mil)                                          Round             2         PTH        47.76mm (1.88inch)
+T6      0.508mm (20mil)                                           Slot              1         NPTH       0.33mm (0.01inch)
+T7      0.61mm (24mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              60
+
+Total Processing Time (hh:mm:ss) : 00:00:00
